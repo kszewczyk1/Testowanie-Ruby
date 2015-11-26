@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative 'person'
+require_relative '../lib/person'
 
 describe 'Testing Person class' do
 
