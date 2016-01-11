@@ -5,7 +5,7 @@
 	- [x] [Hash] (hash.md)
 	- [x] [Enumerable] (enumerable.md)
 2. [x] [Klasy, potęgowanie liczb](lib/)
-3. [x] [Program/Biblioteka/Aplikacja WWW](https://github.com/kszewczyk1/Ruby_Projekt3)
+3. [x] [Program do obsługi biblioteki](https://github.com/kszewczyk1/Ruby_Projekt3)
 
 Podręczne linki:
 
